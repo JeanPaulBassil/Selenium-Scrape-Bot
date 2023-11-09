@@ -1,7 +1,3 @@
-### README.md for Selenium Web Scraper Project
-
----
-
 # Selenium Web Scraper for PVGIS Website
 
 ## Overview
